@@ -10,7 +10,7 @@
         <init-param>
             <param-name>handler</param-name>
             <param-value>
-                classesToCall.ParameterHandler
+                classesToCall.ClassToCall1
             </param-value>
         </init-param>
     </servlet>
